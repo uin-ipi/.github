@@ -1,7 +1,8 @@
 # Hi there !
 ## Selamat datang di git repository Fakultas Adab dan Humaniora UIN Jakarta
 
-![gedung-fah-uinjkt](https://github.com/uin-ipi/.github/assets/24369262/fdbea5dd-03d6-4254-b065-6572de2c4ee8)
+![gedung-fah-uinjkt](https://github.com/uin-ipi/.github/assets/24369262/d6b8eba8-e5be-4bda-a4cd-481bf7dcbd6d)
+
 
 
 
